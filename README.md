@@ -9,6 +9,10 @@ This project is primarily made for IM at Elvebakken Upper Secondary School, and 
 
 This is the server side part of the IM-cli-chat project. The client side repo is [here](https://github.com/ivermoka/IM-cli-chat).
 
+### System sketch (in norwegian)
+![system drawio](https://github.com/ivermoka/IM-cli-chat-server/assets/119415554/fefe61a0-e38e-4693-812f-11bbcd76fa99)
+
+
 ### Running it on your own
 
 #### Prerequisites
