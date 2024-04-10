@@ -1,6 +1,6 @@
 # IM-cli-chat server
 
-This is a simple chat server implemented in Go, using WebSockets for real-time communication. It allows multiple clients to connect and exchange messages. 
+This is a simple chat server implemented in Go, using WebSockets for real-time communication. It is made to be anonymous if wanted, and no data is being saved to a database, which makes it both lightweight and secure. It allows multiple clients to connect and exchange messages. 
 
 <img width="1438" alt="Screenshot 2024-04-10 at 12 52 13" src="https://github.com/ivermoka/IM-cli-chat-server/assets/119415554/7a8b5e7b-705d-47f9-9071-db1b1ec13821">
 
